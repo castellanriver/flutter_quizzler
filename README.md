@@ -1,16 +1,11 @@
 # flutter_quizzler
 
-A new Flutter project.
+Flutter quizzler project at 
+angela yu flutter bootcamp at 'Udemy'
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this course, some of features were depricated 
+so i changed latest version for this project
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+for example, null safety and textbutton etc.
